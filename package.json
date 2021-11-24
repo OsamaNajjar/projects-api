@@ -1,0 +1,26 @@
+{
+  "name": "projects-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OsamaNajjar/projects-api.git"
+  },
+  "author": "osama najjar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OsamaNajjar/projects-api/issues"
+  },
+  "homepage": "https://github.com/OsamaNajjar/projects-api#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "express": "^4.17.1"
+  }
+}
